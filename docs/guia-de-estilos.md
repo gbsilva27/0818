@@ -1,0 +1,2 @@
+- Títulos de filmes em itálico.
+- Datas no formato dd/mm/aaaa.
